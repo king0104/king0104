@@ -1,7 +1,7 @@
-### Hi there 👋
-
+### 안녕하세요 개발자 윤수빈입니다.👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fking0104)](https://hits.seeyoufarm.com)
 <!--
-**king0104/king0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=shinplest&show_icons=true&hide_border=true)](https://github.com/shinplest)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinplest&layout=compact)](https://github.com/shinplest)
