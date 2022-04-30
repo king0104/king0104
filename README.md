@@ -1,5 +1,5 @@
 ### Hi, Here👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=088A4B&height=300&section=header&text=kyle&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=A9D0F5&height=200&section=header&text=kyle&fontSize=90&fontColor=FFFFFF)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
