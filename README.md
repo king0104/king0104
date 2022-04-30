@@ -22,12 +22,14 @@
 
 <br>
 
-<!--
-<h3 align="center">🪄 Blog 🪄</h3>
+
+<h3 align="center">🪄 Note 🪄</h3>
+<p align="center">
+<a href="https://github.com/king0104/note"><img src="https://img.shields.io/badge/Note-E4405F?style=flat-square&logo=Markdown&logoColor=white&link=https://github.com/king0104/note"/></a>&nbsp
+</p>
 
 <div align="center" style="text-align:center">
   
 </div>
--->
   
 <br>
